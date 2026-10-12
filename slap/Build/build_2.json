@@ -1,0 +1,17 @@
+{
+"companyName": "Hihoy",
+"productName": "Slap King",
+"productVersion": "1.005",
+"dataUrl": "build_2.data.unityweb",
+"wasmCodeUrl": "build_2.wasm.code.unityweb",
+"wasmFrameworkUrl": "build_2.wasm.framework.min.js",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "build_2.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.8f1"
+}
